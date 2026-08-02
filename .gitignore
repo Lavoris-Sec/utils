@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.py[cod]
+
+# Local trained templates can contain screenshots/private UI fragments.
+profiles/
+
+# Runtime/build leftovers.
+build/
+dist/
+*.spec
+
+# OS/editor noise.
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
