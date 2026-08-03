@@ -65,9 +65,9 @@ Useful knobs:
 In quick mode the script asks for scroll settings interactively.
 For `--scroll-amount`, use a negative number to scroll down:
 
-- `-3` = small step
-- `-7` = medium step
-- `-12` = big step
+- `-70` = small step
+- `-200` = medium step
+- `-350` = big step
 
 ## GitHub Notes
 
@@ -150,9 +150,9 @@ python -m venv .venv
 В quick-режиме скрипт спрашивает настройки прокрутки интерактивно.
 Для `--scroll-amount` используй отрицательное число, чтобы скроллить вниз:
 
-- `-3` = маленький шаг
-- `-7` = средний шаг
-- `-12` = большой шаг
+- `-70` = маленький шаг
+- `-200` = средний шаг
+- `-350` = большой шаг
 
 ## Заметки для GitHub
 
