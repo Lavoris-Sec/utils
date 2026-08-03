@@ -21,7 +21,7 @@ Emergency stop:
 ## Install
 
 ```powershell
-cd D:\Micro\anticonsent_screen_bot
+cd D:\anticonsent_screen_bot
 python -m venv .venv
 .\.venv\Scripts\python.exe -m pip install -r requirements.txt
 ```
@@ -106,7 +106,7 @@ screen and can contain private UI.
 ## Установка
 
 ```powershell
-cd D:\Micro\anticonsent_screen_bot
+cd D:\anticonsent_screen_bot
 python -m venv .venv
 .\.venv\Scripts\python.exe -m pip install -r requirements.txt
 ```
